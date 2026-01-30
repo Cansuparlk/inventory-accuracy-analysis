@@ -31,7 +31,7 @@ The dataset includes 500 sample records with the following columns:
 - Pandas  
 - NumPy  
 - Matplotlib / Seaborn  
-- Google Colab (no installation required)
+- Google Colab
 
 ## Project Highlights
 
